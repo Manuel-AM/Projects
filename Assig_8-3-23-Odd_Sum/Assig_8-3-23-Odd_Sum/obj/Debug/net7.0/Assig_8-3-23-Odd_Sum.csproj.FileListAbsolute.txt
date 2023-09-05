@@ -1,0 +1,14 @@
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\bin\Debug\net7.0\Assig_8-3-23-Odd_Sum.exe
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\bin\Debug\net7.0\Assig_8-3-23-Odd_Sum.deps.json
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\bin\Debug\net7.0\Assig_8-3-23-Odd_Sum.runtimeconfig.json
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\bin\Debug\net7.0\Assig_8-3-23-Odd_Sum.dll
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\bin\Debug\net7.0\Assig_8-3-23-Odd_Sum.pdb
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\obj\Debug\net7.0\Assig_8-3-23-Odd_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\obj\Debug\net7.0\Assig_8-3-23-Odd_Sum.AssemblyInfoInputs.cache
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\obj\Debug\net7.0\Assig_8-3-23-Odd_Sum.AssemblyInfo.cs
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\obj\Debug\net7.0\Assig_8-3-23-Odd_Sum.csproj.CoreCompileInputs.cache
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\obj\Debug\net7.0\Assig_8-3-23-Odd_Sum.dll
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\obj\Debug\net7.0\refint\Assig_8-3-23-Odd_Sum.dll
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\obj\Debug\net7.0\Assig_8-3-23-Odd_Sum.pdb
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\obj\Debug\net7.0\Assig_8-3-23-Odd_Sum.genruntimeconfig.cache
+C:\Sofgra USA\Development\August 2023\Assig_8-3-23-Odd_Sum\Assig_8-3-23-Odd_Sum\obj\Debug\net7.0\ref\Assig_8-3-23-Odd_Sum.dll
